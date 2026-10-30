@@ -1,0 +1,22 @@
+{
+  "name": "probably-stolen-trainer",
+  "displayName": "Probably Stolen Trainer",
+  "programType": "trainer",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Session settings",
+    "Shop records",
+    "Progression notes"
+  ],
+  "topics": [
+    "probably-stolen-trainer",
+    "probably-stolen-tools",
+    "probably-stolen-menu",
+    "probably-stolen-settings",
+    "probably-stolen-configs",
+    "probably-stolen-session-settings",
+    "probably-stolen-shop-records"
+  ]
+}
